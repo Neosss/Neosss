@@ -1,5 +1,6 @@
 ![title](https://i.imgur.com/wrCLhiO.png)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=203861228370657280)
+<p align="right">You Can (Not) Redo</p>
+
 # *2B Addict*
 
 
