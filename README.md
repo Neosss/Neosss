@@ -1,4 +1,7 @@
-### Hi there 👋
+![title](https://i.imgur.com/wrCLhiO.png)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=203861228370657280)
+# *2B Addict*
+
 
 <!--
 **Neosss/Neosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
